@@ -32,7 +32,7 @@
 <img width="325" alt="ボス戦" src="https://user-images.githubusercontent.com/127751292/225553935-78af0657-74d5-45da-b7a2-7e2fbf7222f0.png">
 
 # キャラクター
-####  Pyxel Editor を使って、使用するキャラクターの画像やサウンドを作成しました。 
+#####  Pyxel Editor を使って、使用するキャラクターの画像やサウンドを作成しました。 
 ##### Pyxel Editor は次のコマンドで起動します。
 ```
 pyxel edit inve.pyxres   
