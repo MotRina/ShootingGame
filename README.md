@@ -37,8 +37,12 @@
 ```
 pyxel edit inve.pyxres   
 ```
-<img width="325" alt="Pyxel Edit" src="https://user-images.githubusercontent.com/127751292/225558688-aeae6264-fa90-42e9-9f5f-b595aa6a34af.png">
 
+<img width="325" alt="Pyxel Edit" src="https://user-images.githubusercontent.com/127751292/225558688-aeae6264-fa90-42e9-9f5f-b595aa6a34af.png"> 
+<p>
+<img width="499" alt="敵の種類" src="https://user-images.githubusercontent.com/127751292/225559947-6988e1cf-0d5d-4960-84de-e244a3ab9501.png"> 
+<img width="507" alt="音の種類" src="https://user-images.githubusercontent.com/127751292/225560061-93575585-5783-4038-a4fe-1b8e92e8b5dc.png">
+</p>
 
 # デモ
 https://user-images.githubusercontent.com/127751292/225552445-076d04c2-b4d7-4cfa-aaf2-98087f1e523d.mov
