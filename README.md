@@ -31,8 +31,17 @@
 + レベル4以上はボスの動きにも変化あり → 難易度が増す
 <img width="325" alt="ボス戦" src="https://user-images.githubusercontent.com/127751292/225553935-78af0657-74d5-45da-b7a2-7e2fbf7222f0.png">
 
+# キャラクター
+####  Pyxel Editor を使って、使用するキャラクターの画像やサウンドを作成しました。 
+##### Pyxel Editor は次のコマンドで起動します。
+```
+pyxel edit inve.pyxres   
+```
+<img width="325" alt="Pyxel Edit" src="https://user-images.githubusercontent.com/127751292/225558688-aeae6264-fa90-42e9-9f5f-b595aa6a34af.png">
+
 
 # デモ
 https://user-images.githubusercontent.com/127751292/225552445-076d04c2-b4d7-4cfa-aaf2-98087f1e523d.mov
 
-#
+
+
